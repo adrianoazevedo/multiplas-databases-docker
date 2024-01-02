@@ -20,3 +20,4 @@ if [ -n "$POSTGRES_MULTIPLE_DATABASES" ]; then
     done
     echo "Multiplas databases criadas"
 fi
+
